@@ -14,7 +14,9 @@
     "page.variation-made",
     "page.original-order-date",
     "page.accrued-interest-varied",
-    "page.priority-order-varied"
+    "page.priority-order-varied",
+    "page.defendant-name",
+    "page.defendant-date-of-birth"
   ],
   "url": "/"
 }
