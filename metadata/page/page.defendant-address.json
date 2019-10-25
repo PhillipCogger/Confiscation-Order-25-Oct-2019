@@ -1,0 +1,47 @@
+{
+  "_id": "page.defendant-address",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.defendant-address--text.auto_name__7",
+      "_type": "text",
+      "label": "Building and street",
+      "name": "auto_name__7"
+    },
+    {
+      "_id": "page.defendant-address--text.auto_name__8",
+      "_type": "text",
+      "label": "Building and street line 2",
+      "name": "auto_name__8",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page.defendant-address--text.auto_name__9",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__9",
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.defendant-address--text.auto_name__10",
+      "_type": "text",
+      "label": "County",
+      "name": "auto_name__10",
+      "validation": {
+        "required": false
+      },
+      "widthClassInput": "two-thirds"
+    },
+    {
+      "_id": "page.defendant-address--text.auto_name__11",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__11",
+      "widthClassInput": "10"
+    }
+  ],
+  "heading": "Defendant's address",
+  "url": "defendant-address"
+}

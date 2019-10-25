@@ -17,7 +17,8 @@
     "page.priority-order-varied",
     "page.defendant-name",
     "page.defendant-date-of-birth",
-    "page.defendant-nationality"
+    "page.defendant-nationality",
+    "page.defendant-address"
   ],
   "url": "/"
 }
