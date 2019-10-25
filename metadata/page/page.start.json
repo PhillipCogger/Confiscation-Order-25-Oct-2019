@@ -9,7 +9,8 @@
     "page.location-code",
     "page.case-number",
     "page.reference-number",
-    "page.section"
+    "page.section",
+    "page.date-of-order"
   ],
   "url": "/"
 }
