@@ -1,0 +1,54 @@
+{
+  "_id": "page.section",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.section--radios.auto_name__5",
+      "_type": "radios",
+      "hint": "",
+      "items": [
+        {
+          "_id": "page.section--radios.auto_name__5--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Section 6 Proceeds of Crime Act 2002",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.section--radios.auto_name__5--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Section 2 Drug Trafficking Act 1994",
+          "value": "auto_value__2"
+        },
+        {
+          "_id": "page.section--radios.auto_name__5--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Section 71 Criminal Justice Act 1988",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.section--radios.auto_name__5--radio.auto_value__4",
+          "_type": "radio",
+          "value": "auto_value__4"
+        },
+        {
+          "_id": "page.section--radios.auto_name__5--radio.auto_value__5",
+          "_type": "radio",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.section--radios.auto_name__5--radio.auto_value__6",
+          "_type": "radio",
+          "value": "auto_value__6"
+        },
+        {
+          "_id": "page.section--radios.auto_name__5--radio.auto_value__7",
+          "_type": "radio",
+          "value": "auto_value__7"
+        }
+      ],
+      "legend": "Section the order was made under",
+      "name": "auto_name__5"
+    }
+  ],
+  "url": "section"
+}
