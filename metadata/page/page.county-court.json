@@ -7,7 +7,7 @@
       "_type": "text",
       "hint": "For example, Barrow Crown Court",
       "label": "Crown Court location",
-      "name": "auto_name__1"
+      "name": "court-location"
     }
   ],
   "url": "location"
