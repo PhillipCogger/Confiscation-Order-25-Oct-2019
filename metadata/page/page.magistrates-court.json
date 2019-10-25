@@ -7,7 +7,7 @@
       "_type": "text",
       "hint": "Birmingham Magistrates' Court",
       "label": "Magistrate's Court location",
-      "name": "auto_name__1"
+      "name": "magistrate-court-location"
     }
   ],
   "url": "magistrates-court"

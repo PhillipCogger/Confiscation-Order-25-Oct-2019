@@ -24,7 +24,8 @@
     "page.offence",
     "page.magistrates-court",
     "page.amount",
-    "page.recovered-amount"
+    "page.recovered-amount",
+    "page.payment-date"
   ],
   "url": "/"
 }

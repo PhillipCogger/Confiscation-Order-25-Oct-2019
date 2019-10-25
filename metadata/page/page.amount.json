@@ -7,7 +7,7 @@
       "_type": "number",
       "hint": "For example, £102.58",
       "label": "Amount the defendant has been ordered to pay",
-      "name": "auto_name__2"
+      "name": "order-payment-amount"
     }
   ],
   "url": "amount"

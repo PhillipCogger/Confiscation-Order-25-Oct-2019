@@ -15,11 +15,11 @@
             "_type": "number",
             "hint": "",
             "label": "Amount",
-            "name": "auto_name__8"
+            "name": "compensation-amount"
           },
           "hint": "",
           "label": "Compensation",
-          "name": "auto_name__3"
+          "name": "compensation"
         },
         {
           "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__4",
@@ -28,10 +28,10 @@
             "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__4--number.auto_name__9",
             "_type": "number",
             "label": "Amount",
-            "name": "auto_name__9"
+            "name": "unlawful-profit-amount"
           },
           "label": "Unlawful profit",
-          "name": "auto_name__4"
+          "name": "unlawful-profit"
         },
         {
           "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__5",
@@ -40,10 +40,10 @@
             "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__5--number.auto_name__10",
             "_type": "number",
             "label": "Amount",
-            "name": "auto_name__10"
+            "name": "slavery-trafficking-amount"
           },
           "label": "Slavery and trafficking reparation",
-          "name": "auto_name__5"
+          "name": "slavery-trafficking"
         },
         {
           "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__6",
@@ -52,10 +52,10 @@
             "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__6--number.auto_name__11",
             "_type": "number",
             "label": "Amount",
-            "name": "auto_name__11"
+            "name": "victim-surcharge-amount"
           },
           "label": "Victim surcharge",
-          "name": "auto_name__6"
+          "name": "victim-surcharge"
         },
         {
           "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__7",
@@ -64,10 +64,10 @@
             "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__7--number.auto_name__12",
             "_type": "number",
             "label": "Amount",
-            "name": "auto_name__12"
+            "name": "confiscation-amount"
           },
           "label": "Confiscation",
-          "name": "auto_name__7"
+          "name": "confiscation"
         }
       ],
       "legend": "What will the defendant pay for using the Confiscation Order amount?"
