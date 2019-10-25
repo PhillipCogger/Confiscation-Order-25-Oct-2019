@@ -10,7 +10,8 @@
     "page.case-number",
     "page.reference-number",
     "page.section",
-    "page.date"
+    "page.date",
+    "page.variation-made"
   ],
   "url": "/"
 }
