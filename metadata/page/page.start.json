@@ -22,7 +22,9 @@
     "page.custody-location",
     "page.conviction-date",
     "page.offence",
-    "page.magistrates-court"
+    "page.magistrates-court",
+    "page.amount",
+    "page.recovered-amount"
   ],
   "url": "/"
 }

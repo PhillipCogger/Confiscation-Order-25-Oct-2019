@@ -1,0 +1,77 @@
+{
+  "_id": "page.recovered-amount",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.recovered-amount--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply",
+      "items": [
+        {
+          "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "conditionalComponent": {
+            "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__3--number.auto_name__8",
+            "_type": "number",
+            "hint": "",
+            "label": "Amount",
+            "name": "auto_name__8"
+          },
+          "hint": "",
+          "label": "Compensation",
+          "name": "auto_name__3"
+        },
+        {
+          "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "conditionalComponent": {
+            "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__4--number.auto_name__9",
+            "_type": "number",
+            "label": "Amount",
+            "name": "auto_name__9"
+          },
+          "label": "Unlawful profit",
+          "name": "auto_name__4"
+        },
+        {
+          "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "conditionalComponent": {
+            "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__5--number.auto_name__10",
+            "_type": "number",
+            "label": "Amount",
+            "name": "auto_name__10"
+          },
+          "label": "Slavery and trafficking reparation",
+          "name": "auto_name__5"
+        },
+        {
+          "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__6",
+          "_type": "checkbox",
+          "conditionalComponent": {
+            "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__6--number.auto_name__11",
+            "_type": "number",
+            "label": "Amount",
+            "name": "auto_name__11"
+          },
+          "label": "Victim surcharge",
+          "name": "auto_name__6"
+        },
+        {
+          "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__7",
+          "_type": "checkbox",
+          "conditionalComponent": {
+            "_id": "page.recovered-amount--checkboxes--checkbox.auto_name__7--number.auto_name__12",
+            "_type": "number",
+            "label": "Amount",
+            "name": "auto_name__12"
+          },
+          "label": "Confiscation",
+          "name": "auto_name__7"
+        }
+      ],
+      "legend": "What will the defendant pay for using the Confiscation Order amount?"
+    }
+  ],
+  "url": "recovered-amount"
+}

@@ -1,0 +1,14 @@
+{
+  "_id": "page.amount",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.amount--number.auto_name__2",
+      "_type": "number",
+      "hint": "For example, £102.58",
+      "label": "Amount the defendant has been ordered to pay",
+      "name": "auto_name__2"
+    }
+  ],
+  "url": "amount"
+}
