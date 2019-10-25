@@ -1,0 +1,13 @@
+{
+  "_id": "page.custody-location",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.custody-location--text.auto_name__1",
+      "_type": "text",
+      "label": "Where is the defendant in custody at?",
+      "name": "custody-location"
+    }
+  ],
+  "url": "custody-location"
+}

@@ -18,7 +18,8 @@
     "page.defendant-name",
     "page.defendant-date-of-birth",
     "page.defendant-nationality",
-    "page.defendant-address"
+    "page.defendant-address",
+    "page.custody-location"
   ],
   "url": "/"
 }
