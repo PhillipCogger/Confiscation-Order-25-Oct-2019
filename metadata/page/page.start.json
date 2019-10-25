@@ -13,7 +13,8 @@
     "page.date",
     "page.variation-made",
     "page.original-order-date",
-    "page.accrued-interest-varied"
+    "page.accrued-interest-varied",
+    "page.priority-order-varied"
   ],
   "url": "/"
 }
