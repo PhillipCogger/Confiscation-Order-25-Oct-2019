@@ -11,7 +11,8 @@
     "page.reference-number",
     "page.section",
     "page.date",
-    "page.variation-made"
+    "page.variation-made",
+    "page.original-order-date"
   ],
   "url": "/"
 }
