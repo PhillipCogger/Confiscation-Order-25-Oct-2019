@@ -28,21 +28,25 @@
         {
           "_id": "page.section--radios.auto_name__5--radio.auto_value__4",
           "_type": "radio",
+          "label": "Section 21 Proceeds of Crime Act 2002",
           "value": "auto_value__4"
         },
         {
           "_id": "page.section--radios.auto_name__5--radio.auto_value__5",
           "_type": "radio",
+          "label": "Section 22 Proceeds of Crime Act 2002",
           "value": "auto_value__5"
         },
         {
           "_id": "page.section--radios.auto_name__5--radio.auto_value__6",
           "_type": "radio",
+          "label": "Section 23 Proceeds of Crime Act 2002",
           "value": "auto_value__6"
         },
         {
           "_id": "page.section--radios.auto_name__5--radio.auto_value__7",
           "_type": "radio",
+          "label": "Section 29 Proceeds of Crime Act 2002",
           "value": "auto_value__7"
         }
       ],
