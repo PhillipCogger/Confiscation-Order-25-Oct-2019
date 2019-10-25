@@ -12,7 +12,8 @@
     "page.section",
     "page.date",
     "page.variation-made",
-    "page.original-order-date"
+    "page.original-order-date",
+    "page.accrued-interest-varied"
   ],
   "url": "/"
 }

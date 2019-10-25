@@ -1,0 +1,27 @@
+{
+  "_id": "page.accrued-interest-varied",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.accrued-interest-varied--radios.auto_name__2",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.accrued-interest-varied--radios.auto_name__2--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.accrued-interest-varied--radios.auto_name__2--radio.auto_value__4",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "Is the accrued interest varied?",
+      "name": "auto_name__2"
+    }
+  ],
+  "url": "accrued-interest-varied"
+}
