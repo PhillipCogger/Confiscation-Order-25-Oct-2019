@@ -25,7 +25,10 @@
     "page.magistrates-court",
     "page.amount",
     "page.recovered-amount",
-    "page.payment-dates"
+    "page.payment-dates",
+    "page.joint-benefit-case",
+    "page.benefit-amount",
+    "page.benefit-details"
   ],
   "url": "/"
 }

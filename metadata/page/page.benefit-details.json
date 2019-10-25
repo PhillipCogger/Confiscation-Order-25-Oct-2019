@@ -1,0 +1,51 @@
+{
+  "_id": "page.benefit-details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.benefit-details--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.benefit-details--fieldset--text.auto_name__1",
+          "_type": "text",
+          "label": "Defendant name",
+          "name": "defendant-name"
+        },
+        {
+          "_id": "page.benefit-details--fieldset--number.auto_name__2",
+          "_type": "number",
+          "label": "Amount of joint benefit for each",
+          "name": "joint-benefit-amount"
+        },
+        {
+          "_id": "page.benefit-details--fieldset--number.auto_name__3",
+          "_type": "number",
+          "label": "Amount the defendant is liable for",
+          "name": "defendant-liable-amount"
+        },
+        {
+          "_id": "page.benefit-details--fieldset--number.auto_name__4",
+          "_type": "number",
+          "label": "Amount the defendant has benefitted by",
+          "name": "defendant-amount-benefit-extent"
+        },
+        {
+          "_id": "page.benefit-details--fieldset--text.auto_name__5",
+          "_type": "text",
+          "label": "Crown Court case number",
+          "name": "crown-court-case-number"
+        }
+      ],
+      "labelhide": true,
+      "legend": "Benefit details",
+      "namespace": "namespace_auto__2",
+      "repeatable": true,
+      "repeatableAdd": "Add another defendant",
+      "repeatableDelete": "Remove defendant",
+      "repeatableMaximum": 10
+    }
+  ],
+  "heading": "Defendant benefit details",
+  "url": "benefit-details"
+}
