@@ -20,7 +20,8 @@
     "page.defendant-nationality",
     "page.defendant-address",
     "page.custody-location",
-    "page.conviction-date"
+    "page.conviction-date",
+    "page.offence"
   ],
   "url": "/"
 }
