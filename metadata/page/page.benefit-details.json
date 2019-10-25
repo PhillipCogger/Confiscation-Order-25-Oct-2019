@@ -49,5 +49,10 @@
     }
   ],
   "heading": "Defendant benefit details",
+  "show": {
+    "identifier": "joint-benefit",
+    "operator": "is",
+    "value": "joint_benefit_yes"
+  },
   "url": "benefit-details"
 }
