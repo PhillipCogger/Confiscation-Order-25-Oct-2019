@@ -1,0 +1,33 @@
+{
+  "_id": "page.payment-dates",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.payment-dates--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.payment-dates--fieldset--date.auto_name__1",
+          "_type": "date",
+          "label": "Date",
+          "labelhide": true,
+          "name": "payment-date"
+        },
+        {
+          "_id": "page.payment-dates--fieldset--number.auto_name__2",
+          "_type": "number",
+          "label": "Amount",
+          "name": "payment-amount"
+        }
+      ],
+      "legend": "Date",
+      "namespace": "namespace_auto__1",
+      "repeatable": true,
+      "repeatableAdd": "Add another date",
+      "repeatableDelete": "Remove date",
+      "repeatableMaximum": 10
+    }
+  ],
+  "heading": "Date the payments must be made",
+  "url": "payments"
+}
