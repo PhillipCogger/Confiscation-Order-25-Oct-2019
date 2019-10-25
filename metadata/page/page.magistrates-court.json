@@ -1,0 +1,14 @@
+{
+  "_id": "page.magistrates-court",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.magistrates-court--text.auto_name__1",
+      "_type": "text",
+      "hint": "Birmingham Magistrates' Court",
+      "label": "Magistrate's Court location",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "magistrates-court"
+}

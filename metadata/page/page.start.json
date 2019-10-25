@@ -21,7 +21,8 @@
     "page.defendant-address",
     "page.custody-location",
     "page.conviction-date",
-    "page.offence"
+    "page.offence",
+    "page.magistrates-court"
   ],
   "url": "/"
 }
