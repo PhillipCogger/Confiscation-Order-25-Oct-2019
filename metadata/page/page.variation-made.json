@@ -10,17 +10,17 @@
           "_id": "page.variation-made--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__1"
+          "value": "order_variation_yes"
         },
         {
           "_id": "page.variation-made--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__2"
+          "value": "order_variation_no"
         }
       ],
       "legend": "Is this a variation to the original order?",
-      "name": "auto_name__1"
+      "name": "original-order-variation"
     }
   ],
   "url": "variation-made"

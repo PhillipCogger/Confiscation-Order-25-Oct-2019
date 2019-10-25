@@ -10,23 +10,23 @@
           "_id": "page.accrued-interest-varied--radios.auto_name__2--radio.auto_value__3",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__3"
+          "value": "varied_interest_yes"
         },
         {
           "_id": "page.accrued-interest-varied--radios.auto_name__2--radio.auto_value__4",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__4"
+          "value": "varied_interest_no"
         }
       ],
       "legend": "Is the accrued interest varied?",
-      "name": "auto_name__2"
+      "name": "accrued-interest-varied"
     }
   ],
   "show": {
-    "identifier": "auto_name__1",
+    "identifier": "original-order-variation",
     "operator": "is",
-    "value": "auto_value__1"
+    "value": "order_variation_yes"
   },
   "url": "accrued-interest-varied"
 }

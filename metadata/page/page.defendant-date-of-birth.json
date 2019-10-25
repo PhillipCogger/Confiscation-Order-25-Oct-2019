@@ -7,7 +7,7 @@
       "_type": "date",
       "hint": "For example, 12 11 1990",
       "label": "Defendant's date of birth",
-      "name": "auto_name__5"
+      "name": "defendant-date-of-birth"
     }
   ],
   "url": "defendant-date-of-birth"

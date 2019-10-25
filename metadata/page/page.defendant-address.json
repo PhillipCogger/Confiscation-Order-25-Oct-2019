@@ -6,13 +6,13 @@
       "_id": "page.defendant-address--text.auto_name__7",
       "_type": "text",
       "label": "Building and street",
-      "name": "auto_name__7"
+      "name": "building-street"
     },
     {
       "_id": "page.defendant-address--text.auto_name__8",
       "_type": "text",
       "label": "Building and street line 2",
-      "name": "auto_name__8",
+      "name": "building-street-2",
       "validation": {
         "required": false
       }
@@ -21,14 +21,14 @@
       "_id": "page.defendant-address--text.auto_name__9",
       "_type": "text",
       "label": "Town or city",
-      "name": "auto_name__9",
+      "name": "town-city",
       "widthClassInput": "two-thirds"
     },
     {
       "_id": "page.defendant-address--text.auto_name__10",
       "_type": "text",
       "label": "County",
-      "name": "auto_name__10",
+      "name": "county",
       "validation": {
         "required": false
       },
@@ -38,7 +38,7 @@
       "_id": "page.defendant-address--text.auto_name__11",
       "_type": "text",
       "label": "Postcode",
-      "name": "auto_name__11",
+      "name": "postcode",
       "widthClassInput": "10"
     }
   ],

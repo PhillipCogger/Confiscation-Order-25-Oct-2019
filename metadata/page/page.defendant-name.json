@@ -7,7 +7,7 @@
       "_type": "text",
       "hint": "Include any aliases or other names",
       "label": "Defendant's full name",
-      "name": "auto_name__4"
+      "name": "defendant-full-name"
     }
   ],
   "url": "defendant-name"
