@@ -1,5 +1,8 @@
 {
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components-core=>service",
-  "_type": "config.service"
+  "_type": "config.service",
+  "name": "Confiscation Order",
+  "pdfHeading": "Confiscation Order",
+  "phase": "none"
 }
