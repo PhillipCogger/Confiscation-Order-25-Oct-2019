@@ -4,6 +4,8 @@
   "body": "",
   "heading": "Confiscation Order",
   "lede": "",
-  "steps": [],
+  "steps": [
+    "page.county-court"
+  ],
   "url": "/"
 }
