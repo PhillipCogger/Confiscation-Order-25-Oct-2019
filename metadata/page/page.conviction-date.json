@@ -1,0 +1,13 @@
+{
+  "_id": "page.conviction-date",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.conviction-date--date.auto_name__1",
+      "_type": "date",
+      "label": "Date of conviction",
+      "name": "conviction-date"
+    }
+  ],
+  "url": "conviction-date"
+}

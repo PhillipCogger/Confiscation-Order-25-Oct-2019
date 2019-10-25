@@ -19,7 +19,8 @@
     "page.defendant-date-of-birth",
     "page.defendant-nationality",
     "page.defendant-address",
-    "page.custody-location"
+    "page.custody-location",
+    "page.conviction-date"
   ],
   "url": "/"
 }
