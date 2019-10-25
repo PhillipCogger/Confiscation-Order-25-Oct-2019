@@ -5,7 +5,9 @@
   "heading": "Confiscation Order",
   "lede": "",
   "steps": [
-    "page.county-court"
+    "page.county-court",
+    "page.location-code",
+    "page.case-number"
   ],
   "url": "/"
 }
