@@ -27,7 +27,8 @@
     "page.recovered-amount",
     "page.payment-dates",
     "page.joint-benefit-case",
-    "page.benefit-details"
+    "page.benefit-details",
+    "page.compliance-order"
   ],
   "url": "/"
 }
