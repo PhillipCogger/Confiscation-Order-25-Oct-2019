@@ -21,16 +21,19 @@
         {
           "_id": "page.benefit-details--fieldset--number.auto_name__3",
           "_type": "number",
+          "label": "Amount the defendant is liable for",
           "name": "auto_name__3"
         },
         {
           "_id": "page.benefit-details--fieldset--number.auto_name__4",
           "_type": "number",
+          "label": "Amount the defendant has benefitted by",
           "name": "auto_name__4"
         },
         {
           "_id": "page.benefit-details--fieldset--text.auto_name__5",
           "_type": "text",
+          "label": "Crown Court case number",
           "name": "auto_name__5"
         }
       ],
