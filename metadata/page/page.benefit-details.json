@@ -15,7 +15,7 @@
         {
           "_id": "page.benefit-details--fieldset--number.auto_name__2",
           "_type": "number",
-          "label": "Amount of joint benefit for each",
+          "label": "Amount of joint benefit",
           "name": "joint-benefit-amount"
         },
         {

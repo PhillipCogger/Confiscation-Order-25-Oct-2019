@@ -5,7 +5,7 @@
     {
       "_id": "page.defendant-date-of-birth--date.auto_name__5",
       "_type": "date",
-      "hint": "For example, 12 11 1990",
+      "hint": "",
       "label": "Defendant's date of birth",
       "name": "defendant-date-of-birth"
     }
