@@ -44,7 +44,7 @@
       "repeatableDelete": "Remove defendant",
       "repeatableHeading": "",
       "repeatableMaximum": 10,
-      "show": true,
+      "show": false,
       "visible": false
     }
   ],
