@@ -10,31 +10,31 @@
           "_id": "page.benefit-details--fieldset--text.auto_name__1",
           "_type": "text",
           "label": "Name",
-          "name": "auto_name__1"
+          "name": "defendant-name"
         },
         {
           "_id": "page.benefit-details--fieldset--number.auto_name__2",
           "_type": "number",
           "label": "Amount of joint benefit",
-          "name": "auto_name__2"
+          "name": "joint-benefit-amount"
         },
         {
           "_id": "page.benefit-details--fieldset--number.auto_name__3",
           "_type": "number",
           "label": "Amount the defendant is liable for",
-          "name": "auto_name__3"
+          "name": "liable-benefit-amount"
         },
         {
           "_id": "page.benefit-details--fieldset--number.auto_name__4",
           "_type": "number",
           "label": "Amount the defendant has benefitted by",
-          "name": "auto_name__4"
+          "name": "benefit-amount-gained"
         },
         {
           "_id": "page.benefit-details--fieldset--text.auto_name__5",
           "_type": "text",
           "label": "Crown Court case number",
-          "name": "auto_name__5"
+          "name": "case-number"
         }
       ],
       "legend": "Benefit",
