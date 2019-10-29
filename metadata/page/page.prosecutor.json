@@ -11,115 +11,115 @@
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__5",
           "_type": "radio",
           "label": "Crown Prosecution Service",
-          "value": "auto_value__5"
+          "value": "crown_prosecution_service"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__6",
           "_type": "radio",
           "label": "Serious Fraud Office",
-          "value": "auto_value__6"
+          "value": "serious_fraud_office"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__7",
           "_type": "radio",
           "label": "Competition and Markets Authority",
-          "value": "auto_value__7"
+          "value": "competition_markets_authority"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__8",
           "_type": "radio",
           "label": "Driver and Vehicle Standards Agency",
-          "value": "auto_value__8"
+          "value": "driver_vehicle_standards_agency"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__9",
           "_type": "radio",
           "label": "Environment Agency",
-          "value": "auto_value__9"
+          "value": "environment_agency"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__10",
           "_type": "radio",
           "label": "Federation Against Copyright Theft ",
-          "value": "auto_value__10"
+          "value": "federation_against_copyright_theft"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__11",
           "_type": "radio",
           "label": "Financial Conduct Authority",
-          "value": "auto_value__11"
+          "value": "financial_conduct_authority"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__12",
           "_type": "radio",
           "label": "Home Office Immigration Enforcement",
-          "value": "auto_value__12"
+          "value": "home_office_immigration_enforcement"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__13",
           "_type": "radio",
           "label": "Marine Management Organisation",
-          "value": "auto_value__13"
+          "value": "marine_management_organisation"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__14",
           "_type": "radio",
           "label": "Natural Resources Body for Wales",
-          "value": "auto_value__14"
+          "value": "natural_resources_body_wales"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__15",
           "_type": "radio",
           "label": "National Crime Agency",
-          "value": "auto_value__15"
+          "value": "national_crime_agency"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__16",
           "_type": "radio",
           "label": "NHS Counter Fraud Authority",
-          "value": "auto_value__16"
+          "value": "nhs_counter_fraud"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__17",
           "_type": "radio",
           "label": "Private Prosecution",
-          "value": "auto_value__17"
+          "value": "private_prosecution"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__18",
           "_type": "radio",
           "label": "Royal Mail Legal Services",
-          "value": "auto_value__18"
+          "value": "royal_mail_legal"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__19",
           "_type": "radio",
           "label": "Security Industry Authority",
-          "value": "auto_value__19"
+          "value": "security_industry_authority"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__20",
           "_type": "radio",
           "label": "The Insolvency Service",
-          "value": "auto_value__20"
+          "value": "insolvency_service"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__21",
           "_type": "radio",
           "label": "[Enter name] Trading Standards",
-          "value": "auto_value__21"
+          "value": "trading_standards"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__22",
           "_type": "radio",
           "label": "[Enter name] Borough Council",
-          "value": "auto_value__22"
+          "value": "borough_council"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__23",
           "_type": "radio",
           "label": "[Enter name] Local Authority",
-          "value": "auto_value__23"
+          "value": "local_authority"
         },
         {
           "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__24",
@@ -128,14 +128,14 @@
             "_id": "page.prosecutor--radios.auto_name__4--radio.auto_value__24--textarea.auto_name__5",
             "_type": "textarea",
             "label": "Give details",
-            "name": "auto_name__5"
+            "name": "details"
           },
           "label": "Other",
-          "value": "auto_value__24"
+          "value": "other"
         }
       ],
       "legend": "Who is the prosecutor?",
-      "name": "auto_name__4"
+      "name": "prosecutor"
     }
   ],
   "url": "prosecutor"
