@@ -10,46 +10,54 @@
         {
           "_id": "page.magistrates-court-name--radios.auto_name__4--radio.auto_value__5",
           "_type": "radio",
-          "value": "auto_value__5"
+          "label": "Birmingham",
+          "value": "birmingham"
         },
         {
           "_id": "page.magistrates-court-name--radios.auto_name__4--radio.auto_value__6",
           "_type": "radio",
-          "value": "auto_value__6"
+          "label": "Caernarfon",
+          "value": "caernarfon"
         },
         {
           "_id": "page.magistrates-court-name--radios.auto_name__4--radio.auto_value__7",
           "_type": "radio",
-          "value": "auto_value__7"
+          "label": "Folkestone",
+          "value": "folkestone"
         },
         {
           "_id": "page.magistrates-court-name--radios.auto_name__4--radio.auto_value__8",
           "_type": "radio",
-          "value": "auto_value__8"
+          "label": "Leeds",
+          "value": "leeds"
         },
         {
           "_id": "page.magistrates-court-name--radios.auto_name__4--radio.auto_value__9",
           "_type": "radio",
-          "value": "auto_value__9"
+          "label": "Liverpool and Knowsley",
+          "value": "liverpool_knowsley"
         },
         {
           "_id": "page.magistrates-court-name--radios.auto_name__4--radio.auto_value__10",
           "_type": "radio",
-          "value": "auto_value__10"
+          "label": "North Somerset",
+          "value": "north_somerset"
         },
         {
           "_id": "page.magistrates-court-name--radios.auto_name__4--radio.auto_value__11",
           "_type": "radio",
-          "value": "auto_value__11"
+          "label": "Swansea",
+          "value": "swansea"
         },
         {
           "_id": "page.magistrates-court-name--radios.auto_name__4--radio.auto_value__12",
           "_type": "radio",
-          "value": "auto_value__12"
+          "label": "Westminster",
+          "value": "westminster"
         }
       ],
       "legend": "The magistrates' court",
-      "name": "auto_name__4"
+      "name": "magistrates-court-name"
     }
   ],
   "url": "magistrates-court-name"
