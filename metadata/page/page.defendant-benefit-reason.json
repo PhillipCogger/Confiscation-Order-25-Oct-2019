@@ -1,0 +1,33 @@
+{
+  "_id": "page.defendant-benefit-reason",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.defendant-benefit-reason--radios.auto_name__4",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.defendant-benefit-reason--radios.auto_name__4--radio.auto_value__5",
+          "_type": "radio",
+          "label": "Drug trafficking",
+          "value": "drug_trafficking"
+        },
+        {
+          "_id": "page.defendant-benefit-reason--radios.auto_name__4--radio.auto_value__6",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.defendant-benefit-reason--radios.auto_name__4--radio.auto_value__6--textarea.auto_name__5",
+            "_type": "textarea",
+            "label": "Give details",
+            "name": "auto_name__5"
+          },
+          "label": "Another type of crime",
+          "value": "other_crime"
+        }
+      ],
+      "legend": "What has the defendant benefited from?",
+      "name": "defendant-benefit-reason"
+    }
+  ],
+  "url": "defendant-benefit-reason"
+}

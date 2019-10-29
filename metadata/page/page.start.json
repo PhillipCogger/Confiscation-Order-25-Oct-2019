@@ -31,7 +31,8 @@
     "page.compliance-order",
     "page.payment-default",
     "page.prosecutor",
-    "page.magistrates-court-name"
+    "page.magistrates-court-name",
+    "page.defendant-benefit-reason"
   ],
   "url": "/"
 }
