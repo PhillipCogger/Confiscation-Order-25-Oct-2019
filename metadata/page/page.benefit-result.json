@@ -1,0 +1,36 @@
+{
+  "_id": "page.benefit-result",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.benefit-result--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply",
+      "items": [
+        {
+          "_id": "page.benefit-result--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "hint": "The Court has decided that the defendant has a criminal lifestyle",
+          "label": "General criminal conduct",
+          "name": "auto_name__4"
+        },
+        {
+          "_id": "page.benefit-result--checkboxes--checkbox.auto_name__7",
+          "_type": "checkbox",
+          "hint": "The Court has decided that the defendant does not have a criminal lifestyle\r\n",
+          "label": "Particular criminal conduct",
+          "name": "auto_name__7"
+        },
+        {
+          "_id": "page.benefit-result--checkboxes--checkbox.auto_name__8",
+          "_type": "checkbox",
+          "hint": "Proceedings are not under Proceeds of Crime Act 2002",
+          "label": "Does not apply",
+          "name": "auto_name__8"
+        }
+      ],
+      "legend": "What is the benefit the result of?"
+    }
+  ],
+  "url": "benefit-result"
+}

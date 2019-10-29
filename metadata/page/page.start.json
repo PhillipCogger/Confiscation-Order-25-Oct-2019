@@ -32,7 +32,8 @@
     "page.payment-default",
     "page.prosecutor",
     "page.magistrates-court-name",
-    "page.defendant-benefit-reason"
+    "page.defendant-benefit-reason",
+    "page.benefit-result"
   ],
   "url": "/"
 }
