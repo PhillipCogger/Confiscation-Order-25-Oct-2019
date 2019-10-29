@@ -13,6 +13,7 @@
           "conditionalComponent": {
             "_id": "page.joint-benefit-case--radios.auto_name__1--radio.auto_value__1--number.auto_name__1",
             "_type": "number",
+            "hint": "The defendants are jointly and severally liable for payment of this amount",
             "label": "Amount",
             "name": "joint-benefit-amount"
           },

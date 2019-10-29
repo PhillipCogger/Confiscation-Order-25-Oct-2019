@@ -1,0 +1,41 @@
+{
+  "_id": "page.payment-default",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.payment-default--radios.auto_name__1",
+      "_type": "radios",
+      "hint": "",
+      "items": [
+        {
+          "_id": "page.payment-default--radios.auto_name__1--radio.auto_value__3",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.payment-default--radios.auto_name__1--radio.auto_value__3--number.auto_name__2",
+            "_type": "number",
+            "hint": "",
+            "label": "Number of weeks",
+            "name": "auto_name__2"
+          },
+          "label": "Detention",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.payment-default--radios.auto_name__1--radio.auto_value__4",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.payment-default--radios.auto_name__1--radio.auto_value__4--number.auto_name__3",
+            "_type": "number",
+            "label": "Number of weeks",
+            "name": "auto_name__3"
+          },
+          "label": "Imprisonment",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "What sentence will the defendant serve if they don't pay the order?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "payment-default"
+}

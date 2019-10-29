@@ -43,8 +43,13 @@
       "repeatableAdd": "Add another benefit",
       "repeatableDelete": "Remove benefit",
       "repeatableHeading": "Defendant benefit details",
-      "repeatableLede": "The defendants are jointly and severally liable for payment of this amount. \r\nThe order is not to be enforced to the extent that a sum has been recovered\r\nby way of satisfaction of another confiscation order made in relation to the same joint benefit."
+      "repeatableLede": "The defendants are jointly and severally liable for payment of this amount. The order is not to be enforced to the extent that a sum has been recovered by way of satisfaction of another confiscation order made in relation to the same joint benefit."
     }
   ],
+  "show": {
+    "identifier": "joint-benefit",
+    "operator": "is",
+    "value": "joint_benefit_yes"
+  },
   "url": "benefit-details"
 }

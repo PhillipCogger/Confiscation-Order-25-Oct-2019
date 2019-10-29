@@ -5,7 +5,7 @@
     {
       "_id": "page.section--radios.auto_name__5",
       "_type": "radios",
-      "hint": "",
+      "hint": "Select one option",
       "items": [
         {
           "_id": "page.section--radios.auto_name__5--radio.auto_value__1",
