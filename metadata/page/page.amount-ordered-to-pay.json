@@ -1,0 +1,67 @@
+{
+  "_id": "page.amount-ordered-to-pay",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.amount-ordered-to-pay--number.auto_name__4",
+      "_type": "number",
+      "label": "Amount",
+      "name": "auto_name__4"
+    },
+    {
+      "_id": "page.amount-ordered-to-pay--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.amount-ordered-to-pay--checkboxes--checkbox.auto_name__7",
+          "_type": "checkbox",
+          "label": "Benefit",
+          "name": "auto_name__7"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.amount-ordered-to-pay--checkboxes--checkbox.auto_name__8",
+          "_type": "checkbox",
+          "label": "The available amount",
+          "name": "auto_name__8"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.amount-ordered-to-pay--checkboxes--checkbox.auto_name__9",
+          "_type": "checkbox",
+          "label": "Part of the amount (different to the benefit or available amount)",
+          "name": "auto_name__9"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.amount-ordered-to-pay--checkboxes--checkbox.auto_name__10",
+          "_type": "checkbox",
+          "label": "A nominal amount (because the available amount is nothing)",
+          "name": "auto_name__10"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.amount-ordered-to-pay--checkboxes--checkbox.auto_name__11",
+          "_type": "checkbox",
+          "label": "An amount that the Court decides is right depending on the victim's proceedings",
+          "name": "auto_name__11"
+        }
+      ],
+      "legend": "What is the amount made up of?"
+    }
+  ],
+  "heading": "Amount the defendant is ordered to pay",
+  "url": "amount-ordered-to-pay"
+}

@@ -38,7 +38,8 @@
     "page.available-amount",
     "page.defendant-assets",
     "page.court-decision",
-    "page.order-amount"
+    "page.order-amount",
+    "page.amount-ordered-to-pay"
   ],
   "url": "/"
 }
