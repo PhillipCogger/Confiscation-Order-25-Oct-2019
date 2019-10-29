@@ -1,0 +1,38 @@
+{
+  "_id": "page.order-amount",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.order-amount--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.order-amount--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "The Prosecution and Defence agreed the benefit figure",
+          "name": "benefit-figure-agreed"
+        },
+        {
+          "_id": "page.order-amount--checkboxes--checkbox.auto_name__7",
+          "_type": "checkbox",
+          "label": "The Prosecution and Defence agreed the value of all the available assets",
+          "name": "asset-value-agreed"
+        },
+        {
+          "_id": "page.order-amount--checkboxes--checkbox.auto_name__8",
+          "_type": "checkbox",
+          "label": "The court approved the benefit figure agreed by the parties",
+          "name": "benefit-figure-approved"
+        },
+        {
+          "_id": "page.order-amount--checkboxes--checkbox.auto_name__9",
+          "_type": "checkbox",
+          "label": "The court approved the parties' valuation of all the available assets",
+          "name": "valuation-approved"
+        }
+      ],
+      "legend": "What was the order decision?"
+    }
+  ],
+  "url": "order-amount"
+}

@@ -37,7 +37,8 @@
     "page.benefit-value",
     "page.available-amount",
     "page.defendant-assets",
-    "page.court-decision"
+    "page.court-decision",
+    "page.order-amount"
   ],
   "url": "/"
 }
