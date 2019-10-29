@@ -29,7 +29,8 @@
     "page.joint-benefit-case",
     "page.benefit-details",
     "page.compliance-order",
-    "page.payment-default"
+    "page.payment-default",
+    "page.prosecutor"
   ],
   "url": "/"
 }
