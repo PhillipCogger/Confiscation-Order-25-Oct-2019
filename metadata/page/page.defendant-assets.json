@@ -1,0 +1,20 @@
+{
+  "_id": "page.defendant-assets",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.defendant-assets--number.auto_name__4",
+      "_type": "number",
+      "label": "Total value of assets presented to the court",
+      "name": "assets-presented"
+    },
+    {
+      "_id": "page.defendant-assets--number.auto_name__7",
+      "_type": "number",
+      "label": "Total value of assets decided by the court",
+      "name": "assets-decided"
+    }
+  ],
+  "heading": "The defendant's assets",
+  "url": "defendant-assets"
+}

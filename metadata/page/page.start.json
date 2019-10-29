@@ -35,7 +35,9 @@
     "page.defendant-benefit-reason",
     "page.benefit-result",
     "page.benefit-value",
-    "page.available-amount"
+    "page.available-amount",
+    "page.defendant-assets",
+    "page.court-decision"
   ],
   "url": "/"
 }
