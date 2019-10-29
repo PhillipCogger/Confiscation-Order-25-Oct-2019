@@ -34,7 +34,8 @@
     "page.magistrates-court-name",
     "page.defendant-benefit-reason",
     "page.benefit-result",
-    "page.benefit-value"
+    "page.benefit-value",
+    "page.available-amount"
   ],
   "url": "/"
 }

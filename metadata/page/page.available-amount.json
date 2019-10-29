@@ -1,0 +1,13 @@
+{
+  "_id": "page.available-amount",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.available-amount--number.auto_name__4",
+      "_type": "number",
+      "label": "What is the available amount?",
+      "name": "available-amount"
+    }
+  ],
+  "url": "available-amount"
+}
