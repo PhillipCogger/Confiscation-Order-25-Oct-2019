@@ -1,0 +1,99 @@
+{
+  "_id": "page.available-assets",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.available-assets--fieldset",
+      "_type": "fieldset",
+      "components": [
+        {
+          "_id": "page.available-assets--fieldset--text.auto_name__16",
+          "_type": "text",
+          "hint": "For example, say whether it is cash, including identification details as appropriate",
+          "label": "Description",
+          "name": "auto_name__16"
+        },
+        {
+          "_id": "page.available-assets--fieldset--text.auto_name__17",
+          "_type": "text",
+          "hint": "Please provide the exact location if you know it. If not, say where the last known location is.",
+          "label": "Current location",
+          "name": "auto_name__17"
+        },
+        {
+          "_id": "page.available-assets--fieldset--checkboxes",
+          "_type": "checkboxes",
+          "items": [
+            {
+              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__18",
+              "_type": "checkbox",
+              "name": "auto_name__18"
+            },
+            {
+              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__19",
+              "_type": "checkbox",
+              "name": "auto_name__19"
+            },
+            {
+              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__20",
+              "_type": "checkbox",
+              "name": "auto_name__20"
+            },
+            {
+              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__21",
+              "_type": "checkbox",
+              "name": "auto_name__21"
+            },
+            {
+              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__22",
+              "_type": "checkbox",
+              "name": "auto_name__22"
+            },
+            {
+              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__23",
+              "_type": "checkbox",
+              "name": "auto_name__23"
+            },
+            {
+              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__24",
+              "_type": "checkbox",
+              "name": "auto_name__24"
+            },
+            {
+              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__25",
+              "_type": "checkbox",
+              "name": "auto_name__25"
+            },
+            {
+              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__26",
+              "_type": "checkbox",
+              "name": "auto_name__26"
+            },
+            {
+              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__27",
+              "_type": "checkbox",
+              "name": "auto_name__27"
+            },
+            {
+              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__28",
+              "_type": "checkbox",
+              "name": "auto_name__28"
+            },
+            {
+              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__29",
+              "_type": "checkbox",
+              "name": "auto_name__29"
+            }
+          ]
+        }
+      ],
+      "legend": "Asset",
+      "namespace": "namespace_auto__3",
+      "repeatable": true,
+      "repeatableAdd": "Add another asset",
+      "repeatableDelete": "Remove asset",
+      "repeatableHeading": "The prosecutor considers that the assets below are available or may be realised"
+    }
+  ],
+  "url": "available-assets"
+}
