@@ -10,36 +10,66 @@
         {
           "_id": "page.more-information--radios.auto_name__15--radio.auto_value__5",
           "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.more-information--radios.auto_name__15--radio.auto_value__5--content",
+            "_type": "content",
+            "html": "HMCTS Midlands Confiscation Unit    \r\nVictoria Law Courts    \r\nCorporation Street    \r\nBirmingham    \r\nB4 6QF    \r\n\r\nEmail - wm-confiscationunit@justice.gov.uk\r\n\r\nPhone - 0121 212 6340"
+          },
           "label": "London",
           "value": "london"
         },
         {
           "_id": "page.more-information--radios.auto_name__15--radio.auto_value__6",
           "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.more-information--radios.auto_name__15--radio.auto_value__6--content",
+            "_type": "content",
+            "html": "HMCTS Midlands Confiscation Unit    \r\nVictoria Law Courts    \r\nCorporation Street    \r\nBirmingham    \r\nB4 6QF    \r\n\r\nEmail - wm-confiscationunit@justice.gov.uk\r\n\r\nPhone - 0121 212 6340"
+          },
           "label": "Midlands",
           "value": "midlands"
         },
         {
           "_id": "page.more-information--radios.auto_name__15--radio.auto_value__7",
           "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.more-information--radios.auto_name__15--radio.auto_value__7--content",
+            "_type": "content",
+            "html": "HMCTS North East Regional Confiscation Unit    \r\nPO BOX 155    \r\nLeeds    \r\nLS27 7ZR    \r\n\r\nEmail - wy-ne-confiscationunit@justice.gov.uk\r\n\r\nPhone - 0113 307 6699"
+          },
           "label": "North East",
           "value": "north_east"
         },
         {
           "_id": "page.more-information--radios.auto_name__15--radio.auto_value__8",
           "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.more-information--radios.auto_name__15--radio.auto_value__8--content",
+            "_type": "content",
+            "html": "HMCTS North West Regional Confiscation Unit    \r\nPO BOX 1960    \r\nLiverpool    \r\nL69 2PJ    \r\n\r\nEmail - me-nw.confiscationunit@justice.gov.uk\r\n\r\nPhone - 0151 471 1011"
+          },
           "label": "North West",
           "value": "auto_value__8"
         },
         {
           "_id": "page.more-information--radios.auto_name__15--radio.auto_value__9",
           "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.more-information--radios.auto_name__15--radio.auto_value__9--content",
+            "_type": "content",
+            "html": "HMCTS South East Regional Confiscation Unit    \r\nThe Law Courts    \r\nCastle Hill Avenue    \r\nFolkstone    \r\nKent CT20 2DH    \r\n\r\nEmail - ke-confiscationregse@justice.gov.uk\r\n\r\nPhone - 01303 227804"
+          },
           "label": "South East",
           "value": "south_east"
         },
         {
           "_id": "page.more-information--radios.auto_name__15--radio.auto_value__10",
           "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.more-information--radios.auto_name__15--radio.auto_value__10--content",
+            "_type": "content",
+            "html": "HMCTS Wales Regional Confiscation Unit    \r\nPort Talbot Justice Centre    \r\nHarbourside Road    \r\nPort Talbot    \r\nSA13 1SB    \r\n\r\nEmail - av-confiscationreg.sw@justice.gov.uk\r\n\r\nPhone - 01639 605686"
+          },
           "label": "Wales and South West",
           "value": "wales_south_west"
         }
