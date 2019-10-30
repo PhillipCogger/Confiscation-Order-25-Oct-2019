@@ -37,7 +37,7 @@
           "$option": true,
           "_id": "page.amount-ordered-to-pay--checkboxes--checkbox.auto_name__9",
           "_type": "checkbox",
-          "label": "Part of the amount (different to the benefit or available amount)",
+          "label": "Part of the amount",
           "name": "auto_name__9"
         },
         {
@@ -46,7 +46,7 @@
           "$option": true,
           "_id": "page.amount-ordered-to-pay--checkboxes--checkbox.auto_name__10",
           "_type": "checkbox",
-          "label": "A nominal amount (because the available amount is nothing)",
+          "label": "A nominal amount",
           "name": "auto_name__10"
         },
         {
@@ -55,7 +55,7 @@
           "$option": true,
           "_id": "page.amount-ordered-to-pay--checkboxes--checkbox.auto_name__11",
           "_type": "checkbox",
-          "label": "An amount that the Court decides is right depending on the victim's proceedings",
+          "label": "An amount based on the victim's proceedings",
           "name": "auto_name__11"
         }
       ],
