@@ -1,0 +1,22 @@
+{
+  "_id": "page.about-the-order",
+  "_type": "page.form",
+  "body": "### If you do not pay\r\n\r\nThe court may send you to prison or detention. But if that happens, you still must pay all the money you owe because the confiscation order will remain in force. So, if you do not pay as required, the money may be obtained from you by other means.\r\n\r\nYou will be required to pay more than the amount ordered by the Court.\r\nYou will have to pay interest on the amount you have not paid. The rate of interest is fixed by law.\r\n\r\n### If you have a question\r\n\r\nContact a solicitor. Please do not contact the Court, as the staff are not\r\nallowed to give legal advice.",
+  "components": [
+    {
+      "_id": "page.about-the-order--text.auto_name__15",
+      "_type": "text",
+      "hint": "For example, an officer of the Crown Court",
+      "label": "Issued by",
+      "name": "issued-by"
+    },
+    {
+      "_id": "page.about-the-order--date.auto_name__16",
+      "_type": "date",
+      "label": "Date",
+      "name": "date-issued-by"
+    }
+  ],
+  "heading": "About the Confiscation Order",
+  "url": "about-the-order"
+}
