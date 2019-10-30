@@ -43,7 +43,8 @@
     "page.order-issued",
     "page.order-recipient",
     "page.next-steps",
-    "page.more-information"
+    "page.more-information",
+    "page.london"
   ],
   "url": "/"
 }
