@@ -1,0 +1,29 @@
+{
+  "_id": "page.next-steps",
+  "_type": "page.form",
+  "body": "The Court made a confiscation order against you. A copy of the order is enclosed. The Court ordered you to pay a sum of money. This form tells you how to pay that sum, and what may happen if you do not pay.",
+  "components": [
+    {
+      "_id": "page.next-steps--number.auto_name__13",
+      "_type": "number",
+      "hint": "This sum will increase if you have to pay interest - see 'If you do not pay as required' on the next page.",
+      "label": "You must pay",
+      "name": "auto_name__13"
+    },
+    {
+      "_id": "page.next-steps--date.auto_name__14",
+      "_type": "date",
+      "hint": "For example, 12 11 2019",
+      "label": "When to pay",
+      "name": "auto_name__14"
+    },
+    {
+      "_id": "page.next-steps--content",
+      "_type": "content",
+      "html": "### Where and how to pay\r\n\r\nNorth East Regional Payment Centre     \r\nHMCTS     \r\nPO BOX 135     \r\nLeeds    \r\nLS27 7ZT    "
+    }
+  ],
+  "heading": "What you must do next",
+  "lede": "",
+  "url": "next-steps"
+}

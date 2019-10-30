@@ -41,7 +41,9 @@
     "page.order-amount",
     "page.amount-ordered-to-pay",
     "page.order-issued",
-    "page.order-recipient"
+    "page.order-recipient",
+    "page.next-steps",
+    "page.more-information"
   ],
   "url": "/"
 }
