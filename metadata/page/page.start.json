@@ -44,7 +44,9 @@
     "page.order-recipient",
     "page.next-steps",
     "page.more-information",
-    "page.about-the-order"
+    "page.about-the-order",
+    "page.asset-schedule",
+    "page.statute"
   ],
   "url": "/"
 }

@@ -15,6 +15,12 @@
       "_type": "date",
       "label": "Date",
       "name": "date-issued-by"
+    },
+    {
+      "_id": "page.about-the-order--text.auto_name__15--2",
+      "_type": "text",
+      "label": "Case number",
+      "name": "auto_name__15"
     }
   ],
   "heading": "About the Confiscation Order",

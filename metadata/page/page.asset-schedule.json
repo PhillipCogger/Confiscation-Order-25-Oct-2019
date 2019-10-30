@@ -1,0 +1,7 @@
+{
+  "_id": "page.asset-schedule",
+  "_type": "page.form",
+  "body": "The Financial Investigator should complete parts 1 and 2 of this form on behalf of the prosecutor.\r\n\r\nIf the defendant's consent is required for the release or sale of an asset shown in the Schedule:\r\n\r\n* ensure that the necessary 'consent' form is signed by the defendant\r\n* encourage the defendant to sign the 'consent' form before they leave the confiscation hearing.",
+  "heading": "Schedule of available or realisable assets",
+  "url": "asset-schedule"
+}
