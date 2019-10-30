@@ -1,0 +1,6 @@
+{
+  "_id": "page.send-form",
+  "_type": "page.confirmation",
+  "heading": "Form completed",
+  "url": "send-form"
+}

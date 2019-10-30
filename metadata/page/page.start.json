@@ -48,7 +48,10 @@
     "page.asset-schedule",
     "page.statute",
     "page.available-assets",
-    "page.determination"
+    "page.determination",
+    "page.total-asset-value",
+    "page.check-answers",
+    "page.send-form"
   ],
   "url": "/"
 }
