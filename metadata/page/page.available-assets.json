@@ -23,68 +23,43 @@
         {
           "_id": "page.available-assets--fieldset--checkboxes",
           "_type": "checkboxes",
+          "hint": "Select all that apply",
           "items": [
             {
+              "$component": true,
+              "$definition": true,
+              "$option": true,
               "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__18",
               "_type": "checkbox",
+              "label": "Restraint",
               "name": "auto_name__18"
             },
             {
+              "$component": true,
+              "$definition": true,
+              "$option": true,
               "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__19",
               "_type": "checkbox",
+              "label": "s10A determination",
               "name": "auto_name__19"
             },
             {
+              "$component": true,
+              "$definition": true,
+              "$option": true,
               "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__20",
               "_type": "checkbox",
+              "label": "Compliance order",
               "name": "auto_name__20"
-            },
-            {
-              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__21",
-              "_type": "checkbox",
-              "name": "auto_name__21"
-            },
-            {
-              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__22",
-              "_type": "checkbox",
-              "name": "auto_name__22"
-            },
-            {
-              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__23",
-              "_type": "checkbox",
-              "name": "auto_name__23"
-            },
-            {
-              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__24",
-              "_type": "checkbox",
-              "name": "auto_name__24"
-            },
-            {
-              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__25",
-              "_type": "checkbox",
-              "name": "auto_name__25"
-            },
-            {
-              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__26",
-              "_type": "checkbox",
-              "name": "auto_name__26"
-            },
-            {
-              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__27",
-              "_type": "checkbox",
-              "name": "auto_name__27"
-            },
-            {
-              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__28",
-              "_type": "checkbox",
-              "name": "auto_name__28"
-            },
-            {
-              "_id": "page.available-assets--fieldset--checkboxes--checkbox.auto_name__29",
-              "_type": "checkbox",
-              "name": "auto_name__29"
             }
-          ]
+          ],
+          "legend": "Notes"
+        },
+        {
+          "_id": "page.available-assets--fieldset--number.auto_name__30",
+          "_type": "number",
+          "label": "Estimated value",
+          "name": "auto_name__30"
         }
       ],
       "legend": "Asset",
