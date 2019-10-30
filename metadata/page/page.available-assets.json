@@ -11,20 +11,20 @@
           "_type": "text",
           "hint": "For example, say whether it is cash, including identification details as appropriate",
           "label": "Description",
-          "name": "auto_name__16"
+          "name": "asset-description"
         },
         {
           "_id": "page.available-assets--fieldset--number.auto_name__30",
           "_type": "number",
           "label": "Estimated value",
-          "name": "auto_name__30"
+          "name": "asset_estimated_value"
         },
         {
           "_id": "page.available-assets--fieldset--text.auto_name__17",
           "_type": "text",
           "hint": "Please provide the exact location if you know it. If not, say where the last known location is.",
           "label": "Current location",
-          "name": "auto_name__17"
+          "name": "asset_location"
         },
         {
           "_id": "page.available-assets--fieldset--checkboxes",
@@ -65,7 +65,7 @@
           "_id": "page.available-assets--fieldset--number.auto_name__21",
           "_type": "number",
           "label": "Court's value",
-          "name": "auto_name__21"
+          "name": "court-value"
         }
       ],
       "legend": "Asset",

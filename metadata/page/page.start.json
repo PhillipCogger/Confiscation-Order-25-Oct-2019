@@ -47,7 +47,8 @@
     "page.about-the-order",
     "page.asset-schedule",
     "page.statute",
-    "page.available-assets"
+    "page.available-assets",
+    "page.determination"
   ],
   "url": "/"
 }
